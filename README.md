@@ -1,8 +1,10 @@
-# React + Vite
+# Responsive  Navbar Using React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## To run the project
+- Clone it on your local machine/device
+- Open it with your fav. editor (suggested Vs Code)
+- Open Terminal and Type "npm i" or "npm install"
+- Then run "npm run dev"
 
-Currently, two official plugins are available:
+** Don't Forgot to follow and subscribe our channel for more updates **
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
